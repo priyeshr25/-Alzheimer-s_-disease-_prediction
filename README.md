@@ -32,3 +32,23 @@ Smoking 🚬 – Increases oxidative stress and damages brain cells.
 Heavy Alcohol Consumption 🍷 – Excess alcohol accelerates brain shrinkage.
 Low Physical Activity 🏃‍♂️ – Sedentary behavior increases Alzheimer’s risk.
 ###
+
+
+
+# Streamlit App for [alzheimer disease predictor] 🚀
+
+Explore the app live here:  
+👉 [Click to Visit](https://huggingface.co/spaces/priyeshr25/app_demo)  
+
+About the Project
+The Alzheimer's Disease Risk Predictor is a Streamlit web app that estimates the likelihood of developing Alzheimer's disease based on various health and lifestyle factors. Users can input details such as age, gender, medical history, cognitive test scores, and lifestyle habits to receive a risk prediction.
+
+🔹 Features:
+✅ Interactive UI with adjustable parameters
+✅ Uses machine learning to assess Alzheimer's risk
+✅ Provides insights into potential risk factors
+
+👉 Try the app here: [[Your App Link](https://huggingface.co/spaces/priyeshr25/app_demo)] 🚀
+
+
+
